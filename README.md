@@ -20,7 +20,7 @@
 ### Plans
 ![Plans](https://github.com/Neha-Pal/PICTIFY/blob/main/buy.jpg)
 ### Image Generation Page
-![Image Generation]()
+![Image Generation](https://github.com/Neha-Pal/PICTIFY/blob/main/prompt.jpg)
 
 
 
