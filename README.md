@@ -12,7 +12,7 @@
 ## Screenshots of my Application
 
 ### Home Page
-![Home Page]()
+![Home Page](https://github.com/Neha-Pal/PICTIFY/blob/main/home.jpg)
 
 ### Image Generation Page
 ![Image Generation]()
