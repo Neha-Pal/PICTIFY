@@ -17,7 +17,8 @@
 ![Signup](https://github.com/Neha-Pal/PICTIFY/blob/main/signup.jpg)
 ### About Section
 ![About](https://github.com/Neha-Pal/PICTIFY/blob/main/about.jpg)
-
+### Plans
+![Plans](https://github.com/Neha-Pal/PICTIFY/blob/main/buy.jpg)
 ### Image Generation Page
 ![Image Generation]()
 
